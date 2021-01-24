@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1576cc4b-7f18-41a4-a805-024d3126d3d5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/DjangoBasicsByBrothers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DjangoBasicsByBrothers.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +37,7 @@
       <recent name="C:\Users\gohir\Desktop\Development\Python\3.DevAssets\DjangoBasicsByBrothers\Intro-Samurai Work" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.StepupSet">
+  <component name="RunManager" selected="Python.StepupSet2">
     <configuration name="StepUpCollection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DjangoBasicsByBrothers" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,12 +80,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="StepupSet2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DjangoBasicsByBrothers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonBasic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBasic/StepupSet2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.StepUpCollection" />
       <item itemvalue="Python.StepupSet" />
+      <item itemvalue="Python.StepupSet2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.StepupSet2" />
         <item itemvalue="Python.StepupSet" />
         <item itemvalue="Python.StepUpCollection" />
       </list>
