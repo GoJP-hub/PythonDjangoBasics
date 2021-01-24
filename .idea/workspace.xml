@@ -37,20 +37,20 @@
       <recent name="C:\Users\gohir\Desktop\Development\Python\3.DevAssets\DjangoBasicsByBrothers\Intro-Samurai Work" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.StepupSet2">
-    <configuration name="StepUpCollection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.SuppPracticeWhile&amp;Break">
+    <configuration name="PracticeLoopFizBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DjangoBasicsByBrothers" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\gohir\Desktop\Development\Python\3.DevAssets\DjangoBasicsByBrothers\Scripts\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonBasic" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBasic/StepUpCollection.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBasic/PracticeLoopFizBuzz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,16 +101,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="SuppPracticeIF&amp;FOR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DjangoBasicsByBrothers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonBasic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\gohir\Desktop\Development\Python\3.DevAssets\DjangoBasicsByBrothers\PythonBasic\SuppPracticeIF&amp;FOR.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SuppPracticeWhile&amp;Break" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DjangoBasicsByBrothers" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonBasic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBasic/SuppPracticeWhile&amp;Break.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.StepUpCollection" />
       <item itemvalue="Python.StepupSet" />
       <item itemvalue="Python.StepupSet2" />
+      <item itemvalue="Python.PracticeLoopFizBuzz" />
+      <item itemvalue="Python.SuppPracticeIF&amp;FOR" />
+      <item itemvalue="Python.SuppPracticeWhile&amp;Break" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SuppPracticeWhile&amp;Break" />
+        <item itemvalue="Python.PracticeLoopFizBuzz" />
+        <item itemvalue="Python.SuppPracticeIF&amp;FOR" />
         <item itemvalue="Python.StepupSet2" />
         <item itemvalue="Python.StepupSet" />
-        <item itemvalue="Python.StepUpCollection" />
       </list>
     </recent_temporary>
   </component>
